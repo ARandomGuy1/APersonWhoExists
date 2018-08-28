@@ -1,8 +1,8 @@
-p (
+p {
     font-size: 200%;
     color: purple;
-)
+}
 
-body(
+body{
     background-color: black;
-)
+}
